@@ -13,6 +13,14 @@ body {
 }
 img {
     max-width: 100%;
+    display: block;
+}
+
+/*style rule for to hide tablet-desk class*/
+
+.table-desk {
+    display: none;
+
 }
 /* Style rule for header */
 header {
